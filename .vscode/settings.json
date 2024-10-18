@@ -1,0 +1,22 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.background": "#323232",          // Тёмный фон
+        "editor.foreground": "#d4d4d4f5",          // Основной цвет текста
+        "editorLineNumber.foreground": "#858585", // Цвет номеров строк
+        "editor.selectionBackground": "#264f78", // Цвет выделенного текста
+        "editor.lineHighlightBackground": "#333333", // Подсветка текущей строки
+        "editorBracketMatch.background": "#515a6b",  // Цвет для совпадений скобок
+        "editorBracketMatch.border": "#d7ba7d",      // Граница совпадений скобок
+        "editorWhitespace.foreground": "#3b3a32",    // Цвет пробелов
+        "activityBar.background": "#282c34",         // Фон боковой панели
+        "sideBar.background": "#21252b",             // Фон боковой панели с файлами
+        "terminal.foreground": "#dcdcdc",            // Цвет текста терминала
+     
+
+        "editorLineNumber.activeForeground": "#ffffff", // Цвет активного номера строки
+        "editor.selectionHighlightBackground": "#264f78", // Цвет подсветки совпадений
+        "editorIndentGuide.activeBackground": "#c0c0c0"  // Цвет направляющих отступов
+    }
+    
+
+}
