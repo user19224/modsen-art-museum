@@ -1,8 +1,4 @@
-import axios from 'axios';
 import { Artwork } from '../types';
-
-const URL = 'https://api.artic.edu/api/v1/artworks';
-
 
 export const fetchArtworks = async (): Promise<Artwork[]> => {
     try {
